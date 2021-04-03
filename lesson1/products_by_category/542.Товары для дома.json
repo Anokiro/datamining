@@ -1,0 +1,926 @@
+[
+  {
+    "id": 131308,
+    "name": "COMET Порошок УТР.РОСА чист.б/хлор.475г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3669892.jpg",
+    "plu": 3669892,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 55.99,
+      "price_promo__min": 47.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18765,
+    "name": "AOS Средство БАЛЬЗАМ д/мытья посуды 450г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3669210.jpg",
+    "plu": 3669210,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18766,
+    "name": "AOS Сред.ЛИМОН д/мытья посуды 450г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3669211.jpg",
+    "plu": 3669211,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24910,
+    "name": "Освежитель воздуха Glade, японский сад, 300 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3440052.jpg",
+    "plu": 3440052,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 89.9,
+      "price_promo__min": 74.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24977,
+    "name": "Освежитель воздуха Glade, пион-сочные ягоды, 300 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3654065.jpg",
+    "plu": 3654065,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 74.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131434,
+    "name": "Средство для мытья посуды жидкое Sorti Контроль Чистоты, 900г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4057350.jpg",
+    "plu": 4057350,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 74.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24958,
+    "name": "Кондиционер для белья Vernel, пион, 910 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3625267.jpg",
+    "plu": 3625267,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 168.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24959,
+    "name": "Кондиционер для белья Vernel, гибискус и роза, 910 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3625268.jpg",
+    "plu": 3625268,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 168.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24989,
+    "name": "VERNEL Конд.SUPR.ROMANCE д/бел.конц600мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3660969.jpg",
+    "plu": 3660969,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131219,
+    "name": "LENOR Кондиц.ЗОЛ.ОРХИД.д/бел.конц.930мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3465388.jpg",
+    "plu": 3465388,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 159.0,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131307,
+    "name": "LENOR Кондиц.МАСЛО ШИ д/белья конц.910мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3669625.jpg",
+    "plu": 3669625,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 164.99,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24908,
+    "name": "CIL.B.Ср-во СИЛ.ЦИТР.дезинф.д/туал.750мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3438042.jpg",
+    "plu": 3438042,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 124.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131315,
+    "name": "Гель для чистки Bref, цветочная свежесть, 700 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3674454.jpg",
+    "plu": 3674454,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131393,
+    "name": "Средство чист. с дез. св-ми д/чистки и мытья унитаза Comet \"Океан\", 700мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4000274.jpg",
+    "plu": 4000274,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 179.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18675,
+    "name": "Средство для унитазов Bref, лимон, 2х50 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3415703.jpg",
+    "plu": 3415703,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 199.0,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131196,
+    "name": "CIF Крем AROM.РОЗОВ.СВЕЖEСТЬ чист.500мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3436349.jpg",
+    "plu": 3436349,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 135.0,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131370,
+    "name": "Чистящий спрей Cif Универсальный 500 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3957479.jpg",
+    "plu": 3957479,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 209.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24878,
+    "name": "GLADE Освеж.AUTOM.ГАВ.БРИЗ см.бал.269мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3347030.jpg",
+    "plu": 3347030,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 173.65,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24890,
+    "name": "GLADE Осв.возд.AUT.ОК.ОАЗИС см.бал.269мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3404252.jpg",
+    "plu": 3404252,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 265.0,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24909,
+    "name": "GLADE Осв.возд.СВЕЖ.УТРА аэроз.269мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3440047.jpg",
+    "plu": 3440047,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 302.99,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24978,
+    "name": "GLADE Осв.возд.ПИОН/СОЧ.ЯГ.см.б аэр269мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3654067.jpg",
+    "plu": 3654067,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 305.0,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131157,
+    "name": "Жироудалитель Unicum, 500 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3362360.jpg",
+    "plu": 3362360,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 201.0,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131158,
+    "name": "Жироудалитель Unicum Gold, 500 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3362660.jpg",
+    "plu": 3362660,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 167.65,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24934,
+    "name": "ЛАСКА Ср.УХОД/ВОССТ.д/стир.жид.1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3491763.jpg",
+    "plu": 3491763,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 219.0,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25065,
+    "name": "Средство для стирки жидкое ЛАСКА ШЕРСТЬ И ШЁЛК 1Л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3965695.jpg",
+    "plu": 3965695,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 269.8,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25066,
+    "name": "Средство для стирки жидкое ЛАСКА ДЛЯ ЦВЕТНОГО 1Л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3965696.jpg",
+    "plu": 3965696,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 269.8,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25067,
+    "name": "Средство для стирки жидкое ЛАСКА ДЛЯ ТЁМНОГО 1Л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3965697.jpg",
+    "plu": 3965697,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 269.8,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131263,
+    "name": "Кондиционер для белья концентрированный \"Вернель Свежий Бриз\" 1820мл.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3627015.jpg",
+    "plu": 3627015,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 339.99,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131264,
+    "name": "Кондиционер для белья концентрированный \"Вернель Ароматерапия Нектар Вдохновения Цветок Ванили и Цитрусовое Масло\" 1820мл.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3627017.jpg",
+    "plu": 3627017,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 299.99,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18679,
+    "name": "ARIEL Гель ГОРН.РОД.жид.авт.кап.15шт",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3421897.jpg",
+    "plu": 3421897,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 319.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18680,
+    "name": "Капсулы для стирки Ariel color&styl, 15 шт.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3421898.jpg",
+    "plu": 3421898,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 299.0,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18712,
+    "name": "ARIEL СМС ГОРНЫЙ РОДНИК жид.1,3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3485974.jpg",
+    "plu": 3485974,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 319.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18737,
+    "name": "ARIEL Сред.COLOR моющ.жид.1,3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3629982.jpg",
+    "plu": 3629982,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 319.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131142,
+    "name": "AIRW.Осв.воз.НЕЖН.ШЕЛКА/ЛИЛ.см.аэр.250мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3327569.jpg",
+    "plu": 3327569,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 298.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131238,
+    "name": "AIRWICK Баллон УТРО В ЛЕСУ сменн.250мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3496479.jpg",
+    "plu": 3496479,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 316.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131081,
+    "name": "VANISH Пятнов.OXI ACTION сп.д/бел.ткан1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2080266.jpg",
+    "plu": 2080266,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 273.99,
+      "price_promo__min": 249.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131385,
+    "name": "Средство моющ. синтетич. жидкое для стрики белья и одежды Гель для стирки Woolite Premium Dark, 900мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3974987.jpg",
+    "plu": 3974987,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 449.99,
+      "price_promo__min": 249.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131386,
+    "name": "Средство моющ. синтетич. жидкое для стрики белья и одежды Гель для стирки Woolite Premium Color, 900мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3974988.jpg",
+    "plu": 3974988,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 449.99,
+      "price_promo__min": 249.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18591,
+    "name": "ARIEL Порошок КОЛОР авт.ст. 3кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2087255.jpg",
+    "plu": 2087255,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 307.4,
+      "price_promo__min": 259.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18615,
+    "name": "ARIEL Порош.TOUCH OF LENOR FRESH авт.3кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3149485.jpg",
+    "plu": 3149485,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 319.99,
+      "price_promo__min": 259.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18775,
+    "name": "ARIEL СМС АРОМАТ МАСЛА ШИ пор.3кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3688912.jpg",
+    "plu": 3688912,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 319.99,
+      "price_promo__min": 259.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24898,
+    "name": "BIOMIO Порошок ст.д/цвет.бел.б/з.к.1500г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3418106.jpg",
+    "plu": 3418106,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 479.99,
+      "price_promo__min": 459.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131356,
+    "name": "FINISH Бесфосфатное сред.POWERB.ALL IN 1 MAX д/ПММ 65шт",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3925971.jpg",
+    "plu": 3925971,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 1349.0,
+      "price_promo__min": 799.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131368,
+    "name": "Бесфосфатное средство для мытья посуды в посудомоечных машинах в таблетках FINISH Powerball All in 1 Max Лимон 65 таб",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3955097.jpg",
+    "plu": 3955097,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 1382.0,
+      "price_promo__min": 799.99
+    },
+    "store_name": null
+  }
+]

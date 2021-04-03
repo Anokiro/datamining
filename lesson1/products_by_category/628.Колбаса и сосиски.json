@@ -1,0 +1,380 @@
+[
+  {
+    "id": 230,
+    "name": "Мясная ферма РУЛЕТ ФИЛЕЙНЫЙ из мяса птицы к/в в/у 150 г_Х5/СТМ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4024712.jpg",
+    "plu": 4024712,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 231,
+    "name": "Мясная Ферма КАРБОНАД ЮБИЛ. из свинины к/в в/с в/у 150 г_Х5/СТМ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4024713.jpg",
+    "plu": 4024713,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 84.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18747,
+    "name": "РЕМИТ Колбаса АБРИКОЛЕТ.с/к б/с нар.70г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3653063.jpg",
+    "plu": 3653063,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 106.99,
+      "price_promo__min": 84.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131332,
+    "name": "Колбаса Верона, сыровяленая, мясницкий Ряд, 90 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684835.jpg",
+    "plu": 3684835,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 142.99,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18724,
+    "name": "Колбаса Краинская, полукопченая, Атяшево, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3601522.jpg",
+    "plu": 3601522,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 116.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18659,
+    "name": "ЕГОР.Колб.СЕРВЕЛ.ИМБИР.с/к б/с нар.150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3379266.jpg",
+    "plu": 3379266,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 187.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18722,
+    "name": "БЛИЖ.ГОР.Колб.НОВОМОСКОВСК.в/к кус.350г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3504905.jpg",
+    "plu": 3504905,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 209.0,
+      "price_promo__min": 134.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18597,
+    "name": "Колбаса Докторская, велком, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2120885.jpg",
+    "plu": 2120885,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 153.7,
+      "price_promo__min": 139.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 18769,
+    "name": "Ветчина для завтрака, Мясной Дом Бородина, 330 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3670825.jpg",
+    "plu": 3670825,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 239.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18812,
+    "name": "Мясной продукт категории В изделие колбасное вареное шпикачки \" Папа Может\" Сочные, 0.4 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4008109.jpg",
+    "plu": 4008109,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 199.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18725,
+    "name": "Колбаса Юбилейная, ГОСТ, сырокопченая, Останкино, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3604156.jpg",
+    "plu": 3604156,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 169.0,
+      "price_promo__min": 144.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131198,
+    "name": "Колбаса СЕРВЕЛАТ КРЕМЛЕВСК.в/к в/с 330г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3440935.jpg",
+    "plu": 3440935,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 219.0,
+      "price_promo__min": 144.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131411,
+    "name": "Мясной продукт из свинины вареный. \"Ветчина для завтрака\" категории А. 0,400 кг МИРАТОРГ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4037352.jpg",
+    "plu": 4037352,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 265.99,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131405,
+    "name": "Мясное колбасное изделие вареное категории А. Колбаса «Докторская». 450г .",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4019606.jpg",
+    "plu": 4019606,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 299.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18700,
+    "name": "Грудинка Крылатская, варёно-копчёная, Дымов, 370 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3465943.jpg",
+    "plu": 3465943,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 269.0,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131150,
+    "name": "КЛИНСКИЙ Колбаса с/к МИНИ-САЛЯМИ 300г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3345854.jpg",
+    "plu": 3345854,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 348.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131168,
+    "name": "ВЕЛКОМ Колбаса ЯЗЫКОВАЯ кусок в/уп.500г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3385815.jpg",
+    "plu": 3385815,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 259.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131225,
+    "name": "МДБ Шпикачки ДОМАШНИЕ 480г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3472486.jpg",
+    "plu": 3472486,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 299.0,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  }
+]

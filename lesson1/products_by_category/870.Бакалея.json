@@ -1,0 +1,1409 @@
+[
+  {
+    "id": 20006,
+    "name": "Дегидрированные продукты Vegeta Суп грибной с вермишелью 40г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3977919.jpg",
+    "plu": 3977919,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 34.49,
+      "price_promo__min": 29.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13889,
+    "name": "ДИАДАР Отруби хрустящие овсяные 200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3388018.jpg",
+    "plu": 3388018,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 42.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13928,
+    "name": "Соус Классический Thai-so, соевый, 250 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3484963.jpg",
+    "plu": 3484963,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 38.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20067,
+    "name": "Изделия макаронные группа А, высший сорт, яичные: звездочки для супчика 250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4075782.jpg",
+    "plu": 4075782,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113503,
+    "name": "Чипсы картофельные \"Русская картошка\" со вкусом сметаны и лука 80 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035779.jpg",
+    "plu": 4035779,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113337,
+    "name": "Мука пшеничная из цельносмолотого зерна \"Рязаночка\" 1кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3605057.jpg",
+    "plu": 3605057,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 44.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113383,
+    "name": "Мука ржаная хлебопекарная обдирная, 1 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3653414.jpg",
+    "plu": 3653414,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 37.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13917,
+    "name": "Цикорий Большая Чашка, классический, растворимый, 85 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3462819.jpg",
+    "plu": 3462819,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 67.95,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18708,
+    "name": "Цикорий Большая чаша, растворимый, с черникой, 85 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3473706.jpg",
+    "plu": 3473706,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 74.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113347,
+    "name": "KOTANYI Приправа Кавказские травы, пакет 9 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3614555.jpg",
+    "plu": 3614555,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 49.0,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113393,
+    "name": "Злаковая Полоска Corny Big, белый шоколад, 40 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3671314.jpg",
+    "plu": 3671314,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 47.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113457,
+    "name": "Злаковая полоска с черникой \"Corny BIG\" 40 гр.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3965897.jpg",
+    "plu": 3965897,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 47.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113507,
+    "name": "Маринованный жареный арахис со вкусом меда и горчицы \"PARTY NUTS\" 70 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4038494.jpg",
+    "plu": 4038494,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113508,
+    "name": "Маринованный жареный арахис со вкусом сметаны и зеленого лука \"PARTY NUTS\" 70 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4038495.jpg",
+    "plu": 4038495,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113509,
+    "name": "Маринованный жареный арахис с Морской Солью И Черным Перцем \"PARTY NUTS\" 70 ГР",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4039148.jpg",
+    "plu": 4039148,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13893,
+    "name": "СЭН СОЙ Соус ТЕРИЯКИ ПРЕМИУМ столов.120г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3408179.jpg",
+    "plu": 3408179,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 44.99,
+      "price_promo__min": 42.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19996,
+    "name": "Кетчуп первой категории Махеевъ \"Чили\" пакет ДОЙ-ПАК с дозатором 300 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3941585.jpg",
+    "plu": 3941585,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 45.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20046,
+    "name": "Кетчуп Махеевъ \"Томатный\" ДП 300 г УП16",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4044938.jpg",
+    "plu": 4044938,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 45.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113397,
+    "name": "МАХЕЕВЪ Соус ЦЕЗАРЬ майонезный 200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3679725.jpg",
+    "plu": 3679725,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 64.99,
+      "price_promo__min": 48.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20055,
+    "name": "КУХМАСТЕР Соус \"Карри\" 260г.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4064468.jpg",
+    "plu": 4064468,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20056,
+    "name": "КУХМАСТЕР Соус \"Аджика\" 260г.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4064470.jpg",
+    "plu": 4064470,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113447,
+    "name": "Хрустящий арахис со вкусом Васаби \"PARTY NUTS\" , 100 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3955946.jpg",
+    "plu": 3955946,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 67.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113448,
+    "name": "Хрустящий арахис со вкусом Сладкого Чили \"PARTY NUTS\", 100 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3955949.jpg",
+    "plu": 3955949,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 67.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18733,
+    "name": "MAGGI Заправка д/рассольника паст.200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3625833.jpg",
+    "plu": 3625833,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 58.0,
+      "price_promo__min": 53.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113386,
+    "name": "Соус Mr.Ricco, бургер, 310 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3658935.jpg",
+    "plu": 3658935,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113418,
+    "name": "Dr. Oetker Смесь пищевая: Глазурь со вкусом цитрусовых 90 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3900044.jpg",
+    "plu": 3900044,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18808,
+    "name": "Картофель хрустящий \"Со вкусом сметаны и лука\" 150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3986506.jpg",
+    "plu": 3986506,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 62.99,
+      "price_promo__min": 55.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 18809,
+    "name": "Картофель хрустящий \"Со вкусом краба\" 150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3986507.jpg",
+    "plu": 3986507,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 62.99,
+      "price_promo__min": 55.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 18840,
+    "name": "TWISTER КАРТОФЕЛЬ ХРУСТЯЩИЙ «Со вкусом белых грибов в сливочном соусе» 150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4061907.jpg",
+    "plu": 4061907,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 64.99,
+      "price_promo__min": 55.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 18841,
+    "name": "TWISTER КАРТОФЕЛЬ ХРУСТЯЩИЙ «Со вкусом колбасок гриль с горчицей» 150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4062940.jpg",
+    "plu": 4062940,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 64.99,
+      "price_promo__min": 55.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 13923,
+    "name": "УВЕЛКА Хлопья гречневые 400г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3477319.jpg",
+    "plu": 3477319,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 68.0,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16456,
+    "name": "Томатный кетчуп Heinz 342г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4086400.jpg",
+    "plu": 4086400,
+    "promo": {
+      "id": 1166715645,
+      "date_begin": "2021-03-07",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113272,
+    "name": "Завтрак Вкусти Хрусти, подушечки со сливочной начинкой, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3435751.jpg",
+    "plu": 3435751,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 61.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113323,
+    "name": "ЯБЛОКОВ Чипсы ябл.из кисло-сладких 25г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3500625.jpg",
+    "plu": 3500625,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113334,
+    "name": "Лен ВАШЕ ЗДОРОВЬЕ 300г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3604388.jpg",
+    "plu": 3604388,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 76.05,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113346,
+    "name": "Концентраты пищевые. Полуфабрикаты мучных изделий \"Печем дома\" - смеси для выпечки: Кекс Шоколадный 300г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3614204.jpg",
+    "plu": 3614204,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 64.9,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113504,
+    "name": "Чипсы картофельные \"Русская картошка\" со вкусом камчатского краба 110 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035782.jpg",
+    "plu": 4035782,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113540,
+    "name": "Изделия макаронные из твердых сортов пшеницы гр.А в/с Паста Фарфаллине 5х80 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4072891.jpg",
+    "plu": 4072891,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113541,
+    "name": "Изделия макаронные из твердых сортов пшеницы гр.А в/с Паста Фьорелини 5х80 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4072894.jpg",
+    "plu": 4072894,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113325,
+    "name": "HEINZ Соус ТЕРИЯКИ деликат.230г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3503548.jpg",
+    "plu": 3503548,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 74.55,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113344,
+    "name": "Хлопья Увелка, рисовые, 400 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3613391.jpg",
+    "plu": 3613391,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 76.65,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113380,
+    "name": "Соус деликатесный Сладкий Чили Хайнц, 230 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3649353.jpg",
+    "plu": 3649353,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113410,
+    "name": "HEINZ Соус БРУСНИЧНЫЙ деликатесный 230г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3689133.jpg",
+    "plu": 3689133,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113500,
+    "name": "Набор для приготовления \"Гречка с грибами в сочном соусе по-сибирски\" 0,26 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4027514.jpg",
+    "plu": 4027514,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20036,
+    "name": "Макаронные изделия из твердых сортов пшеницы группа А, высший сорт, Barilla, КАПЕЛЛИНИ 450 г.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4037645.jpg",
+    "plu": 4037645,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20037,
+    "name": "Макаронные изделия из твердых сортов пшеницы группа А, высший сорт, Barilla,ПЕННЕ РИГАТЕ 450г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4037652.jpg",
+    "plu": 4037652,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20038,
+    "name": "Макаронные изделия из твердых сортов пшеницы группа А, высший сорт, Barilla,ПИПЕ РИГАТЕ 450г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4037654.jpg",
+    "plu": 4037654,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20034,
+    "name": "Набор для приготовления \"Паста \"Портобелло\" в грибном соусе\" \"Увелка\" 0,34 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4027518.jpg",
+    "plu": 4027518,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113247,
+    "name": "Мюсли Matti,банан-шоколад, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3398284.jpg",
+    "plu": 3398284,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 86.95,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113248,
+    "name": "Мюсли Matti, ежевика-малина, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3398285.jpg",
+    "plu": 3398285,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 86.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113249,
+    "name": "Мюсли Matti, орех-яблоко, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3398286.jpg",
+    "plu": 3398286,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 86.95,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113343,
+    "name": "Картофельные чипсы “Naturals” с пармезаном, 100 гр.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3611009.jpg",
+    "plu": 3611009,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 99.0,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113356,
+    "name": "Картофельные чипсы “Naturals” классичекие, с солью, 100 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3624025.jpg",
+    "plu": 3624025,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 99.0,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113357,
+    "name": "Картофельные чипсы “Naturals” с паприкой, 100 гр.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3624026.jpg",
+    "plu": 3624026,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 99.0,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113409,
+    "name": "LAYS Чипсы нат.карт.рифл.вк.ПАПРИКА 150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3688435.jpg",
+    "plu": 3688435,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 93.19,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13824,
+    "name": "KOTANYI Приправа ИТАЛ.ТР.в мельн.48г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/67129.jpg",
+    "plu": 67129,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 106.6,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13831,
+    "name": "KOTANYI Приправа 4 ПЕРЦА в мельн.35г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/89000.jpg",
+    "plu": 89000,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 109.3,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13837,
+    "name": "Приправа Kotanyi Чеснок-травы-соль 50г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2058397.jpg",
+    "plu": 2058397,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 109.3,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113182,
+    "name": "СЕН СОЙ Соус КЛАССИЧЕСКИЙ соевый 1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3072579.jpg",
+    "plu": 3072579,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 119.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113303,
+    "name": "CINI MINIS Безбашенные квадры Готовый завтрак с корицей 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3477236.jpg",
+    "plu": 3477236,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 119.0,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113549,
+    "name": "Макаронные изделия Farfalle n.30/ Фарфалле №30 из твердых сортов пшеницы 500г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4077766.jpg",
+    "plu": 4077766,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113550,
+    "name": "Макаронные изделия Fusilli n.31/ Фузилли №31 из твердых сортов пшеницы 500г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4077767.jpg",
+    "plu": 4077767,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113551,
+    "name": "Макаронные изделия Spaghetti n.3/ Спагетти №3 из твердых сортов пшеницы 500г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4077771.jpg",
+    "plu": 4077771,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 31316,
+    "name": "Чипсы Pringles, паприка, 165 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3231225.jpg",
+    "plu": 3231225,
+    "promo": {
+      "id": 1171111563,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 139.0,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113513,
+    "name": "Масло виноградное раф., ТМ «Global Village», 250мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4047875.jpg",
+    "plu": 4047875,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 159.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20071,
+    "name": "Масло оливковое нераф. Extra Virgin, ТМ «Global Village», 250мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4082388.jpg",
+    "plu": 4082388,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 189.99,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113225,
+    "name": "Завтрак шоколадный, готовый, Nesquick, 700 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3368535.jpg",
+    "plu": 3368535,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 219.0,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  }
+]

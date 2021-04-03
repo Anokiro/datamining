@@ -1,0 +1,569 @@
+[
+  {
+    "id": 20055,
+    "name": "КУХМАСТЕР Соус \"Карри\" 260г.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4064468.jpg",
+    "plu": 4064468,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20056,
+    "name": "КУХМАСТЕР Соус \"Аджика\" 260г.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4064470.jpg",
+    "plu": 4064470,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20036,
+    "name": "Макаронные изделия из твердых сортов пшеницы группа А, высший сорт, Barilla, КАПЕЛЛИНИ 450 г.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4037645.jpg",
+    "plu": 4037645,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16873,
+    "name": "КАРАТ Сыр КОРАЛЛ плавленный 45% 230г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3677490.jpg",
+    "plu": 3677490,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16875,
+    "name": "КАРАТ Сыр ЯНТАРЬ плавленый 45% 230г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3683694.jpg",
+    "plu": 3683694,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18747,
+    "name": "РЕМИТ Колбаса АБРИКОЛЕТ.с/к б/с нар.70г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3653063.jpg",
+    "plu": 3653063,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 106.99,
+      "price_promo__min": 84.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113350,
+    "name": "Лапша гречневая Соба, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3618853.jpg",
+    "plu": 3618853,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 109.99,
+      "price_promo__min": 84.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113351,
+    "name": "Лапша пшеничная Удон, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3618857.jpg",
+    "plu": 3618857,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 109.99,
+      "price_promo__min": 84.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18724,
+    "name": "Колбаса Краинская, полукопченая, Атяшево, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3601522.jpg",
+    "plu": 3601522,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 116.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113551,
+    "name": "Макаронные изделия Spaghetti n.3/ Спагетти №3 из твердых сортов пшеницы 500г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4077771.jpg",
+    "plu": 4077771,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18659,
+    "name": "ЕГОР.Колб.СЕРВЕЛ.ИМБИР.с/к б/с нар.150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3379266.jpg",
+    "plu": 3379266,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 187.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131244,
+    "name": "Сыр сливочный Легкий, Arla Natura, 30%, 150 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3504112.jpg",
+    "plu": 3504112,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 172.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18722,
+    "name": "БЛИЖ.ГОР.Колб.НОВОМОСКОВСК.в/к кус.350г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3504905.jpg",
+    "plu": 3504905,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 209.0,
+      "price_promo__min": 134.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18542,
+    "name": "Пирожное Кольцо с творогом, 6 шт.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/11884.jpg",
+    "plu": 11884,
+    "promo": {
+      "id": 1171025929,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 170.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18769,
+    "name": "Ветчина для завтрака, Мясной Дом Бородина, 330 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3670825.jpg",
+    "plu": 3670825,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 239.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131354,
+    "name": "Сыр плавленый сливочный ТМ Экомилк с м.д.ж. 55%, 400г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3924969.jpg",
+    "plu": 3924969,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 179.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131440,
+    "name": "БЗМЖ Сыр \"Львиное сердце\" 45% ТМ Радость вкуса (ламинат цв./узк., фас. 200г брусок, 10шт/к)",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4062961.jpg",
+    "plu": 4062961,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 159.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16872,
+    "name": "Сыр классический, Брест Литовск, 200 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3672506.jpg",
+    "plu": 3672506,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 159.99,
+      "price_promo__min": 144.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18725,
+    "name": "Колбаса Юбилейная, ГОСТ, сырокопченая, Останкино, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3604156.jpg",
+    "plu": 3604156,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 169.0,
+      "price_promo__min": 144.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131198,
+    "name": "Колбаса СЕРВЕЛАТ КРЕМЛЕВСК.в/к в/с 330г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3440935.jpg",
+    "plu": 3440935,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 219.0,
+      "price_promo__min": 144.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131411,
+    "name": "Мясной продукт из свинины вареный. \"Ветчина для завтрака\" категории А. 0,400 кг МИРАТОРГ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4037352.jpg",
+    "plu": 4037352,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 265.99,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 215752,
+    "name": "Дск Манго 1 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3626871.jpg",
+    "plu": 3626871,
+    "promo": {
+      "id": 1173829873,
+      "date_begin": "2021-04-02",
+      "date_end": "2021-04-04",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 1
+    },
+    "current_prices": {
+      "price_reg__min": 199.99,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16878,
+    "name": "Сыр Виола, сливочный, Valio, 400 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3908600.jpg",
+    "plu": 3908600,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 233.99,
+      "price_promo__min": 179.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16877,
+    "name": "Сыр Petit Brie, мягкий, с белой плесенью, President, 125 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3693219.jpg",
+    "plu": 3693219,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 249.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19204,
+    "name": "Пирожное наполеон, 300 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3460123.jpg",
+    "plu": 3460123,
+    "promo": {
+      "id": 1171025933,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 227.99,
+      "price_promo__min": 219.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131150,
+    "name": "КЛИНСКИЙ Колбаса с/к МИНИ-САЛЯМИ 300г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3345854.jpg",
+    "plu": 3345854,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 348.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18873,
+    "name": "Торт Новый Киевский, Фили Бейкер, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3414746.jpg",
+    "plu": 3414746,
+    "promo": {
+      "id": 1171025931,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 529.99,
+      "price_promo__min": 449.99
+    },
+    "store_name": null
+  }
+]

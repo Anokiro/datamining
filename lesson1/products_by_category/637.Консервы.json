@@ -1,0 +1,737 @@
+[
+  {
+    "id": 112639,
+    "name": "Консервы мясорастительные паштетные стерилизованные Hame Паштет деликатесный с гусиной печенью 105 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3959234.jpg",
+    "plu": 3959234,
+    "promo": {
+      "id": 1170285965,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 42.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113452,
+    "name": "Консервы мясорастительные паштетные стерилизованные Hame Паштет деликатесный с индейкой 105 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3959235.jpg",
+    "plu": 3959235,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 42.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113453,
+    "name": "Консервы мясорастительные паштетные стерилизованные Hame Паштет деликатесный с мясом птицы 105 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3959236.jpg",
+    "plu": 3959236,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 42.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19986,
+    "name": "КУХМАСТЕР Икра из кабачков 480г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3681570.jpg",
+    "plu": 3681570,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 48.49,
+      "price_promo__min": 44.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113330,
+    "name": "GL.VILLAGE Рагу овощное 510г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3602896.jpg",
+    "plu": 3602896,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 64.95,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113338,
+    "name": "Имбирь \"СКАТЕРТЬ-САМОБРАНКА\" маринованный с/б 200гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3605848.jpg",
+    "plu": 3605848,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 67.25,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 213,
+    "name": "ЛУЖСКАЯ МАРКА Говядина тушеная 1с 325г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3483539.jpg",
+    "plu": 3483539,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 75.05,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18711,
+    "name": "ЛУЖСКАЯ МАРКА Свинина тушеная 325г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3483538.jpg",
+    "plu": 3483538,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18731,
+    "name": "Мясо цыпленка Гост, Елинский МК, 325 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3624482.jpg",
+    "plu": 3624482,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 78.0,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18727,
+    "name": "Сардина Иваси, натуральная, 245 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3613299.jpg",
+    "plu": 3613299,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 82.0,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20041,
+    "name": "Консервы. Горошек зеленый из мозговых сортов. \"молодой Горошек без сахара\", 425 мл.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4043589.jpg",
+    "plu": 4043589,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20042,
+    "name": "Консервы. Кукуруза сахарная в зернах в вакуумной упаковке. \" молочная кукуруза без сахара\", 425 мл.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4043590.jpg",
+    "plu": 4043590,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18585,
+    "name": "БАРС Скумбрия в т/с 250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2050134.jpg",
+    "plu": 2050134,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 74.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 214,
+    "name": "БАРС Шпроты из балтийск.кильки в/м 160г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3504456.jpg",
+    "plu": 3504456,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 85.0,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18801,
+    "name": "Паштет Наме, с гусиной печенью, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3966502.jpg",
+    "plu": 3966502,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20022,
+    "name": "Маслины без косточки, Filippo Berio, 300 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4005881.jpg",
+    "plu": 4005881,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 109.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20023,
+    "name": "Оливки без косточки, Filippo Berio, 300 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4005882.jpg",
+    "plu": 4005882,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 109.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113506,
+    "name": "Бондюэль Красная фасоль в классическом Барбекю ст/б 350 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4038159.jpg",
+    "plu": 4038159,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 109.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 216,
+    "name": "МАГУРО Паштет ПАРУС из тунца 185г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3636041.jpg",
+    "plu": 3636041,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 85.99,
+      "price_promo__min": 84.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13852,
+    "name": "СК.САМОБР.Огурчики маринов720мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2147768.jpg",
+    "plu": 2147768,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20054,
+    "name": "Лютеница \"Пикантная\" Green Dream 260 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4059533.jpg",
+    "plu": 4059533,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 109.99,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19987,
+    "name": "Икра баклажановая, Janarat, 470 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3692237.jpg",
+    "plu": 3692237,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 119.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113146,
+    "name": "ВЕРЕС Икра из кабачков ЭКСТРА 505г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/51725.jpg",
+    "plu": 51725,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 116.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13836,
+    "name": "Ветчина Балтийская, говяжья, 325 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2050027.jpg",
+    "plu": 2050027,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 147.0,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20030,
+    "name": "Консервы Janarat Перец-гриль с/б 340г шт",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4019916.jpg",
+    "plu": 4019916,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 139.99,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113378,
+    "name": "Шпроты из салаки, в масле, Знак Качества, 240 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3648434.jpg",
+    "plu": 3648434,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 119.99,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113291,
+    "name": "IBERICA Маслины с костью 360г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3466502.jpg",
+    "plu": 3466502,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 125.0,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113415,
+    "name": "JANARAT Имам баялды 450г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3692516.jpg",
+    "plu": 3692516,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13838,
+    "name": "GREEN RAY Ананасы КОЛЬЦА   565г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2070075.jpg",
+    "plu": 2070075,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 199.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13965,
+    "name": "Консервы мясные стерилизованные. Оленина тушеная особая, 338 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3643282.jpg",
+    "plu": 3643282,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 145.0,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19997,
+    "name": "Плов с говядиной DeliLabs 300г в реторт-пакете",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3942564.jpg",
+    "plu": 3942564,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19981,
+    "name": "Свинина Великолукский МК тушеная ГОСТ 325 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3675349.jpg",
+    "plu": 3675349,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 149.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19990,
+    "name": "Говядина тушеная высший сорт 325 гр \nВеликолукский Мясокомбинат",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3902643.jpg",
+    "plu": 3902643,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 149.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13947,
+    "name": "СКАТ-САМОБР.Патиссончики отб.мар.720мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3605448.jpg",
+    "plu": 3605448,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 161.0,
+      "price_promo__min": 149.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13930,
+    "name": "Говядина тушеная, АК СНОВ, 338 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3488763.jpg",
+    "plu": 3488763,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 212.0,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  }
+]

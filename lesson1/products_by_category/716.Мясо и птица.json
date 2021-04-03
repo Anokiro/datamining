@@ -1,0 +1,401 @@
+[
+  {
+    "id": 18747,
+    "name": "РЕМИТ Колбаса АБРИКОЛЕТ.с/к б/с нар.70г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3653063.jpg",
+    "plu": 3653063,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 106.99,
+      "price_promo__min": 84.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131332,
+    "name": "Колбаса Верона, сыровяленая, мясницкий Ряд, 90 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684835.jpg",
+    "plu": 3684835,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 142.99,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18724,
+    "name": "Колбаса Краинская, полукопченая, Атяшево, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3601522.jpg",
+    "plu": 3601522,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 116.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 1214,
+    "name": "Колбаски Чевапчичи из говядины, Мираторг, 300 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3492564.jpg",
+    "plu": 3492564,
+    "promo": {
+      "id": 1173409746,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 139.0,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 1216,
+    "name": "Котлета свиная, Рестория, 400 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3619730.jpg",
+    "plu": 3619730,
+    "promo": {
+      "id": 1173409746,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 139.0,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 1217,
+    "name": "Фарш Пава Пава, нежный, из индейки, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3629402.jpg",
+    "plu": 3629402,
+    "promo": {
+      "id": 1173409746,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 130.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 1219,
+    "name": "Котлеты из мяса индейки, Пава Пава, 450 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3984697.jpg",
+    "plu": 3984697,
+    "promo": {
+      "id": 1173409746,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18659,
+    "name": "ЕГОР.Колб.СЕРВЕЛ.ИМБИР.с/к б/с нар.150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3379266.jpg",
+    "plu": 3379266,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 187.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18722,
+    "name": "БЛИЖ.ГОР.Колб.НОВОМОСКОВСК.в/к кус.350г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3504905.jpg",
+    "plu": 3504905,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 209.0,
+      "price_promo__min": 134.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18597,
+    "name": "Колбаса Докторская, велком, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2120885.jpg",
+    "plu": 2120885,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 153.7,
+      "price_promo__min": 139.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 1220,
+    "name": "ФАРШ ГОВЯЖИЙ ОСТАНКИНО мгс 400 г, шт.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4065830.jpg",
+    "plu": 4065830,
+    "promo": {
+      "id": 1173409746,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 1221,
+    "name": "РЕСТОРИЯ Азу из индейки полуфабрикат 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4072852.jpg",
+    "plu": 4072852,
+    "promo": {
+      "id": 1173409746,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 144.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18725,
+    "name": "Колбаса Юбилейная, ГОСТ, сырокопченая, Останкино, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3604156.jpg",
+    "plu": 3604156,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 169.0,
+      "price_promo__min": 144.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131198,
+    "name": "Колбаса СЕРВЕЛАТ КРЕМЛЕВСК.в/к в/с 330г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3440935.jpg",
+    "plu": 3440935,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 219.0,
+      "price_promo__min": 144.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 1215,
+    "name": "говядина шейная часть газ 400гр.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3606378.jpg",
+    "plu": 3606378,
+    "promo": {
+      "id": 1173409746,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 229.0,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131405,
+    "name": "Мясное колбасное изделие вареное категории А. Колбаса «Докторская». 450г .",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4019606.jpg",
+    "plu": 4019606,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 299.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131150,
+    "name": "КЛИНСКИЙ Колбаса с/к МИНИ-САЛЯМИ 300г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3345854.jpg",
+    "plu": 3345854,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 348.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131168,
+    "name": "ВЕЛКОМ Колбаса ЯЗЫКОВАЯ кусок в/уп.500г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3385815.jpg",
+    "plu": 3385815,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 259.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131355,
+    "name": "Окорок по-тамбовски из свинины к/в кат.Б, 1кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3925657.jpg",
+    "plu": 3925657,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 999.99,
+      "price_promo__min": 699.99
+    },
+    "store_name": null
+  }
+]
