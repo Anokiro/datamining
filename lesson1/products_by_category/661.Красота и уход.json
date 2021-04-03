@@ -1,0 +1,1136 @@
+[
+  {
+    "id": 24993,
+    "name": "BODYART Маска ЛИФТИНГ д/лиц.ткан.осн",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3664694.jpg",
+    "plu": 3664694,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 44.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24994,
+    "name": "BODYART Маска УВЛАЖН.д/лиц.ткан.осн",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3664695.jpg",
+    "plu": 3664695,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 44.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24985,
+    "name": "NIVEA Крем УВЛ/МЯГК.д/рук 75мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3657595.jpg",
+    "plu": 3657595,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 73.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 219,
+    "name": "Салфетки влажные Tolli Plus, 80 шт., 1 уп.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3664696.jpg",
+    "plu": 3664696,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24911,
+    "name": "PAPIA Полотенца бумажные 3сл.2рул",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3449212.jpg",
+    "plu": 3449212,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 75.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131102,
+    "name": "KOTEX Прокл.УЛЬТРА НАЙТ гигиен.жен.7шт",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3017398.jpg",
+    "plu": 3017398,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 93.35,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131288,
+    "name": "KOTEX Прокл.ULTRA SOFT гиг.нормал 10шт",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3647604.jpg",
+    "plu": 3647604,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24914,
+    "name": "EVO Крем для ног с мочевиной 50мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3455002.jpg",
+    "plu": 3455002,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 90.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131230,
+    "name": "REXONA А/пер ПРОЗРАЧ.КРИСТАЛЛ рол.50мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3479541.jpg",
+    "plu": 3479541,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 89.05,
+      "price_promo__min": 82.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24872,
+    "name": "Гель для душа Fa, охлаждение экстрим, 250 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3241074.jpg",
+    "plu": 3241074,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 99.3,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24923,
+    "name": "ZEWA Бумага PURE туал.влаж.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3473455.jpg",
+    "plu": 3473455,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.0,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24924,
+    "name": "ZEWA Бумага NATURAL CAMOMILE туал.влаж.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3473456.jpg",
+    "plu": 3473456,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.0,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24984,
+    "name": "FA Гель FUN ар.ананас/цв.франж.д/д 250мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3655723.jpg",
+    "plu": 3655723,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 123.99,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24955,
+    "name": "SCHAUMA Шампунь 400мл Энергия Природы Драгоценный Медовый Эликсир",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3624617.jpg",
+    "plu": 3624617,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 142.0,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24956,
+    "name": "SCHAUMA Шампунь 400 мл Энергия Природы Свежая Крапива и Зеленое яблоко",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3624618.jpg",
+    "plu": 3624618,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 135.89,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131228,
+    "name": "REXONA А/пер ПРОЗРАЧ.КРИСТАЛЛ аэр.150мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3479534.jpg",
+    "plu": 3479534,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 129.0,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131229,
+    "name": "REXONA А/пер ЯРКИЙ БУКЕТ аэр.150мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3479535.jpg",
+    "plu": 3479535,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 129.0,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131358,
+    "name": "REXONA Антиперспирант аэрозоль НЕЖНО И СОЧНО 150 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3928499.jpg",
+    "plu": 3928499,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 158.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18710,
+    "name": "Зубная паста Splat, Professional, 100 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3480375.jpg",
+    "plu": 3480375,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 124.0,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131262,
+    "name": "Palmolive Men Гель для душа 3 в 1 Арктический Ветер (Активный уход), 250 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3626165.jpg",
+    "plu": 3626165,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 135.0,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24893,
+    "name": "Ополаскиватель для полости рта Colgate Plax, алтайские травы, 500 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3408462.jpg",
+    "plu": 3408462,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131303,
+    "name": "PALM.Гель РОСК.МАСЕЛ инж/б.орх.д/д 250мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3664431.jpg",
+    "plu": 3664431,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 156.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131341,
+    "name": "SHAMTU Шамп.СВ/ОБЪЕМ Б/МЫТ.ВОЛ.сух.150мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3691482.jpg",
+    "plu": 3691482,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 154.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131462,
+    "name": "LISTERINE® Ополаскиватель для полости рта «Имбирь-Лайм» 250 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4095191.jpg",
+    "plu": 4095191,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 179.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18669,
+    "name": "GARN.Шамп.FRUCT.SOS Восстановление 400мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3406278.jpg",
+    "plu": 3406278,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 149.0,
+      "price_promo__min": 129.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 18705,
+    "name": "GARN.Шампунь ФРУКТ.РОСТ ВО ВС.СИЛУ 400мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3472122.jpg",
+    "plu": 3472122,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 194.99,
+      "price_promo__min": 129.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 18750,
+    "name": "GARN.Шамп.ОГУРЕЧНАЯ СВЕЖЕСТЬ укреп.400мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3659304.jpg",
+    "plu": 3659304,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 194.99,
+      "price_promo__min": 129.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 18754,
+    "name": "GARN.Бальз-опол.FRUCTIS SOS ВОС.укр387мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3662131.jpg",
+    "plu": 3662131,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 188.99,
+      "price_promo__min": 129.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 18761,
+    "name": "GARN.Бал-оп.FR.РОСТ В/ВСЮ СИЛУ укр.387мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3664945.jpg",
+    "plu": 3664945,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 199.99,
+      "price_promo__min": 129.9
+    },
+    "store_name": null
+  },
+  {
+    "id": 24876,
+    "name": "NIVEA Сред.ДВОЙНОЙ ЭФФ.д/уд.мак.гл.125мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3328055.jpg",
+    "plu": 3328055,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 137.45,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131236,
+    "name": "ZEWA Бумага ДЖАСТ 1 туал.4сл.4рул.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3493108.jpg",
+    "plu": 3493108,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 155.0,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24880,
+    "name": "O.B.Тампоны Procomfort супер плюс 16шт",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3367588.jpg",
+    "plu": 3367588,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 159.0,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24932,
+    "name": "LIBRESSE Прокладки УЛЬТРА СУПЕР гиг.16шт",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3488297.jpg",
+    "plu": 3488297,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 169.0,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131185,
+    "name": "ALW.Прокл.ULT.NIGH.ЭКС.ЗАЩ.жен.гиг.12ш",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3424970.jpg",
+    "plu": 3424970,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 174.99,
+      "price_promo__min": 139.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24933,
+    "name": "NIVEA Крем CARE увл.д/л 100мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3491232.jpg",
+    "plu": 3491232,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 169.0,
+      "price_promo__min": 149.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131203,
+    "name": "REXONA Антиперсп-кар.СУХОСТЬ ПУДРЫ 40мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3444774.jpg",
+    "plu": 3444774,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 195.99,
+      "price_promo__min": 149.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18640,
+    "name": "Туалетная бумага Zewa плюс, белая, 2 слоя, 12 рулонов",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3326206.jpg",
+    "plu": 3326206,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 172.99,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24966,
+    "name": "DOVE Шампунь H.THER.КОНТР.Н/ПОД.ВОЛ380мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3632672.jpg",
+    "plu": 3632672,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 229.0,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24967,
+    "name": "DOVE Шампунь H.THER.ИНТЕН.ВОССТАН.380мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3632673.jpg",
+    "plu": 3632673,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 229.0,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25000,
+    "name": "PAP.Бумага WHITE DE LUXE туалет.8рул",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3679801.jpg",
+    "plu": 3679801,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 239.99,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25012,
+    "name": "NIVEA Вода миц.MIC.ДЫХ.КОЖИ с/ч 400мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3686874.jpg",
+    "plu": 3686874,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 249.99,
+      "price_promo__min": 169.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131372,
+    "name": "AXE Дезодорант-карандаш АНАРХИЯ ДЛЯ МУЖЧИН 50МЛ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3959469.jpg",
+    "plu": 3959469,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 219.99,
+      "price_promo__min": 179.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24900,
+    "name": "CLEAR Шам.бал-опол.UL.CONT.2в1муж400мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3420658.jpg",
+    "plu": 3420658,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 249.09,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25061,
+    "name": "ШАМПУНЬ - ДЕТОКС CLEAR ПРОТИВ ПЕРХОТИ ЕЖЕДНЕВНЫЙ 400МЛ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3958227.jpg",
+    "plu": 3958227,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 299.99,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18772,
+    "name": "Бальз-опол.PS ГЛУБ.ВОССТ.дл.действ.500мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3682463.jpg",
+    "plu": 3682463,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 262.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18773,
+    "name": "Шампунь PS ГЛУБ.ВОССТ.дл.защ.от пов500мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3682464.jpg",
+    "plu": 3682464,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 262.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25037,
+    "name": "OLD SPICE Твердый дезодорант Captain 50мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3909980.jpg",
+    "plu": 3909980,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 219.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25083,
+    "name": "Гель-крем для душа Palmolive Натурэль \"Витамин С и Апельсин\" 750мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4024923.jpg",
+    "plu": 4024923,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 310.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24864,
+    "name": "ROCS З/паста КОФЕ И ТАБАК 74г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3152415.jpg",
+    "plu": 3152415,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 239.0,
+      "price_promo__min": 219.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24930,
+    "name": "ROCS З/паста АКТИВНЫЙ КАЛЬЦИЙ 94г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3482562.jpg",
+    "plu": 3482562,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 239.0,
+      "price_promo__min": 219.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131287,
+    "name": "Le Petit Marseillais Гель для душа Малина и Пион 650 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3642074.jpg",
+    "plu": 3642074,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 299.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131401,
+    "name": "Garnier Мицеллярное молочко для лица, глаз и губ \"Нежное очищение\" серии Skin Naturals 400 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4017603.jpg",
+    "plu": 4017603,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 273.99,
+      "price_promo__min": 229.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131293,
+    "name": "Шампунь против перхоти HEAD&SHOULDERS Supreme Укрепление 300мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3653506.jpg",
+    "plu": 3653506,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 288.99,
+      "price_promo__min": 239.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131294,
+    "name": "Бальзам-ополаскиватель против перхоти HEAD&SHOULDERS Supreme Укрепление 275мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3653507.jpg",
+    "plu": 3653507,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 288.99,
+      "price_promo__min": 239.99
+    },
+    "store_name": null
+  }
+]

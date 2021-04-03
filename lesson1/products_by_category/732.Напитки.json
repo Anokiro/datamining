@@ -1,0 +1,1724 @@
+[
+  {
+    "id": 112215,
+    "name": "Вода минеральная природная питьевая столовая негаз \"Легенда Гор \" 0,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3635119.jpg",
+    "plu": 3635119,
+    "promo": {
+      "id": 1170285946,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 25.9,
+      "price_promo__min": 19.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18743,
+    "name": "ДОБРЫЙ Сок мультифрут с 6 мес.0.2л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3637415.jpg",
+    "plu": 3637415,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 24.0,
+      "price_promo__min": 21.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131428,
+    "name": "Вода минеральная природная столовая питьевая негазированная Легенда гор Архыз 0.75 л. спорт.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4048555.jpg",
+    "plu": 4048555,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 36.99,
+      "price_promo__min": 25.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25092,
+    "name": "Напиток безалкогольный негазированный Манго с семенами базилика ТМ «FRESH», 300 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4045239.jpg",
+    "plu": 4045239,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 39.99,
+      "price_promo__min": 29.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25093,
+    "name": "Напиток безалкогольный негазированный Гуава с семенами базилика ТМ «FRESH», 300 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4045240.jpg",
+    "plu": 4045240,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 39.99,
+      "price_promo__min": 29.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25094,
+    "name": "Напиток безалкогольный негазированный вкус Киви - Фейхоа с семенами базилика ТМ «FRESH», 300 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4045241.jpg",
+    "plu": 4045241,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 39.99,
+      "price_promo__min": 29.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131298,
+    "name": "Вода Нагутская-26, минеральная, 1,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3656207.jpg",
+    "plu": 3656207,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 33.9,
+      "price_promo__min": 32.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131427,
+    "name": "Напиток безалкогольный сильногазированный низкокалорийный \"Pepsi Mango\" Вкус Манго 0.33л БАН 12Х",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4048527.jpg",
+    "plu": 4048527,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 46.99,
+      "price_promo__min": 35.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 8062,
+    "name": "Вода Архыз Легенда Гор, негазированная, 1,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3630602.jpg",
+    "plu": 3630602,
+    "promo": {
+      "id": 1163236905,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 39.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 8063,
+    "name": "Вода Архыз Легенда Гор, газированная, 1,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3630603.jpg",
+    "plu": 3630603,
+    "promo": {
+      "id": 1163236905,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 39.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18824,
+    "name": "Напиток Fantola Babble Gum. 0,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4041211.jpg",
+    "plu": 4041211,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 54.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24946,
+    "name": "Напиток Байкал, сильногазированный, 0,33 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3607122.jpg",
+    "plu": 3607122,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 43.9,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25046,
+    "name": "Напиток безалкогольный негазированный Аква Минерале \"Лимон\" 0.5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3922566.jpg",
+    "plu": 3922566,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 48.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25047,
+    "name": "Напиток безалкогольный среднегазированный Аква Минерале \"Черешня\" 0.5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3922569.jpg",
+    "plu": 3922569,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 48.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131217,
+    "name": "FRESH ALOE Нап.ВК.КЛУБН.с кус.алоэ 0.5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3463462.jpg",
+    "plu": 3463462,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 42.95,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131430,
+    "name": "Вода питьевая купажированная Акваграцио газированная",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4053893.jpg",
+    "plu": 4053893,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 55.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25063,
+    "name": "«Кока-Кола Ванилла ®» напиток безалкогольный сильногазированный, 0.33л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3962905.jpg",
+    "plu": 3962905,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 44.99,
+      "price_promo__min": 42.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131452,
+    "name": "Soko Grande Сок яблочный восстановленный осветленный 0,3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4074641.jpg",
+    "plu": 4074641,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 52.99,
+      "price_promo__min": 42.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131353,
+    "name": "Сок гранатовый прямого отжима 0,3 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3920295.jpg",
+    "plu": 3920295,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 52.99,
+      "price_promo__min": 45.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131406,
+    "name": "SOKO GRANDE Нектар из манго с мякотью 0,3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4022789.jpg",
+    "plu": 4022789,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 45.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 8079,
+    "name": "PEPSI Напит.КОЛА б/алк.с/газ.0,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684630.jpg",
+    "plu": 3684630,
+    "promo": {
+      "id": 1163236905,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 52.99,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25032,
+    "name": "Вишневый нектар \"RICH\" ПЭТ 0.3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3902703.jpg",
+    "plu": 3902703,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 55.99,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25033,
+    "name": "Нектар из апельсинов и манго \"RICH\" ПЭТ 0.3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3902704.jpg",
+    "plu": 3902704,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 55.99,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25034,
+    "name": "Яблочный сок \"RICH\", ПЭТ 0.3л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3903669.jpg",
+    "plu": 3903669,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 55.99,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131120,
+    "name": "Фрутмотив напиток СО ВКУСОМ АПЕЛЬС.б/алк.негаз1,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3196391.jpg",
+    "plu": 3196391,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 49.9,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131121,
+    "name": "Фрутмотив напиток СО ВКУСОМ ВИШНИ б/алк.негаз1,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3196392.jpg",
+    "plu": 3196392,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 54.9,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131122,
+    "name": "Фрутмотив напиток СО ВКУСОМ ЯБЛ.б/алк.негаз1,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3196393.jpg",
+    "plu": 3196393,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 64.99,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131301,
+    "name": "ФРУТМОТ.Напит.СО ВКУС.ГРУШИ б/а н/г 1,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3663255.jpg",
+    "plu": 3663255,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 54.99,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 7954,
+    "name": "Напиток безалкогольный тонизирующий газированный «ГринМи плюс протект (GreenMe plus protect)» 0,33 л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4054838.jpg",
+    "plu": 4054838,
+    "promo": {
+      "id": 1165122189,
+      "date_begin": "2021-03-07",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 47.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131258,
+    "name": "Вода минеральная природная питьевая лечебно-столовая газ. \"Джермук\", 0.5 л ст.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3621697.jpg",
+    "plu": 3621697,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 59.9,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131414,
+    "name": "Напиток \"FANTOLA MANGO TRIO\"«Фантола манго трио» б/алк.сил/газ.1,0 л ПЭТ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4041213.jpg",
+    "plu": 4041213,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131415,
+    "name": "Напиток \"FANTOLA BABBLE GUM\"«Фантола баббл гам» б/алк.сил/газ.1,0 л ПЭТ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4041214.jpg",
+    "plu": 4041214,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131416,
+    "name": "Напиток \"FANTOLA ORANGE COLA\" «Фантола оранж кола» б/алк.сил/газ.1,0 л ПЭТ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4041215.jpg",
+    "plu": 4041215,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18806,
+    "name": "Вода минеральная природная питьевая лечебно-столовая газированная \"Ессентуки №4\" 1л ПЭТ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3977407.jpg",
+    "plu": 3977407,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 63.99,
+      "price_promo__min": 52.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18807,
+    "name": "Вода минеральная природная питьевая лечебная газированная \"Ессентуки №17\" 1л ПЭТ",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3977408.jpg",
+    "plu": 3977408,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 63.99,
+      "price_promo__min": 52.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131373,
+    "name": "«Кока-Кола Ванилла ®» напиток безалкогольный сильногазированный, 0.5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3962906.jpg",
+    "plu": 3962906,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 59.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131418,
+    "name": "Напиток \"Кока-Кола со вкусом апельсина\" (Coca-Cola Orange) б/алк.сил.газ.0,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4044236.jpg",
+    "plu": 4044236,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 61.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131419,
+    "name": "Напиток \"Спрайт\" со вкусом лимона, лайма и мяты\" б/алк.сил.газ.0,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4044960.jpg",
+    "plu": 4044960,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 61.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25043,
+    "name": "Напиток безалкогольный сильногазированный \"Миринда Микс-Ит\" со вкусом Клубники и Личи 0.5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3922335.jpg",
+    "plu": 3922335,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 56.99,
+      "price_promo__min": 55.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25045,
+    "name": "Напиток безалкогольный сильногазированный \"Миринда Микс-Ит\" со вкусом Ананаса и Груши 0.5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3922339.jpg",
+    "plu": 3922339,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 56.99,
+      "price_promo__min": 55.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131412,
+    "name": "\"Швепс\" Спритц Аперитиво\" напиток безалкогольный сильногазированный 0,33л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4038624.jpg",
+    "plu": 4038624,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 69.99,
+      "price_promo__min": 63.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18580,
+    "name": "Нектар ДОБРЫЙ виноградный 1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/90347.jpg",
+    "plu": 90347,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 73.9,
+      "price_promo__min": 67.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18706,
+    "name": "ДОБРЫЙ Морс КЛЮКВА из виногр/клюк.1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3472445.jpg",
+    "plu": 3472445,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 79.95,
+      "price_promo__min": 76.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18707,
+    "name": "ДОБРЫЙ Морс БРУСН/МОРОШ.вин/кл/бр/мор.1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3472446.jpg",
+    "plu": 3472446,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 79.95,
+      "price_promo__min": 76.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18720,
+    "name": "ДОБРЫЙ Нап.из клюкв/апел.с экс.корицы 1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3501040.jpg",
+    "plu": 3501040,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 84.95,
+      "price_promo__min": 76.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18785,
+    "name": "Cок из яблока, апельсина, мандарина, грейпфрута, лимона и лайма, 1л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3902665.jpg",
+    "plu": 3902665,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 85.99,
+      "price_promo__min": 76.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18786,
+    "name": "Сок яблочно-виноградный, 1л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3902666.jpg",
+    "plu": 3902666,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 85.99,
+      "price_promo__min": 76.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131305,
+    "name": "NESTEA Нап.ЗЕЛ.ЧАЙ СО ВК.МАЛИНЫ н/г 1,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3667164.jpg",
+    "plu": 3667164,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 84.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131380,
+    "name": "Напиток безалкогольный сильногаз. с соком клубники и киви на основе природной мин. питьевой столовой газ.воды “Perrier”,0,25 л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3971337.jpg",
+    "plu": 3971337,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131381,
+    "name": "Напиток безалкогольный сильногаз. с соком ананаса и манго на основе природной мин. питьевой столовой газ. воды “Perrier”, 0,25 л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3971338.jpg",
+    "plu": 3971338,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131382,
+    "name": "«НЕСТИ» «Черный чай со вкусом манго и ананаса» Напиток безалкогольный негазированный пастеризованный 1,5л пэт",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3972369.jpg",
+    "plu": 3972369,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25006,
+    "name": "Напитки Pepsi,, 1,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684633.jpg",
+    "plu": 3684633,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 92.89,
+      "price_promo__min": 82.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25007,
+    "name": "Напитки 7Up, 1,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684634.jpg",
+    "plu": 3684634,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 88.99,
+      "price_promo__min": 82.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25008,
+    "name": "Напитки Mirinda апельсин, 1,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684637.jpg",
+    "plu": 3684637,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 90.99,
+      "price_promo__min": 82.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25009,
+    "name": "Напитки Pepsi Wild Cherry, 1,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684638.jpg",
+    "plu": 3684638,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 92.89,
+      "price_promo__min": 82.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25041,
+    "name": "Напиток безалкогольный сильногазированный низкокалорийный \"PEPSI DARK VANILLA\" (\"Пепси Дарк Ванилла\" вкус Ванили\") 1.5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3922281.jpg",
+    "plu": 3922281,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 82.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25044,
+    "name": "Напиток безалкогольный сильногазированный \"Миринда Микс-Ит\" со вкусом Клубники и Личи 1.5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3922337.jpg",
+    "plu": 3922337,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 99.98,
+      "price_promo__min": 82.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25104,
+    "name": "Напиток безалкогольный сильногазированный низкокалорийный \"Pepsi Mango\" Вкус Манго 1.5л ПЭТ 6Х",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4048530.jpg",
+    "plu": 4048530,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.99,
+      "price_promo__min": 82.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24912,
+    "name": "FRESH ALOE Нап.кус.алоэ б/алк.негаз.1,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3450911.jpg",
+    "plu": 3450911,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 95.95,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24992,
+    "name": "FRESH ALOE Нап.ВК.КЛУБН.с кус.алоэ 1,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3661655.jpg",
+    "plu": 3661655,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 99.9,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 112224,
+    "name": "Напиток Pepsi, 2 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684656.jpg",
+    "plu": 3684656,
+    "promo": {
+      "id": 1170285946,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 108.99,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24920,
+    "name": "ЛЮБИМЫЙ Напит.ябл/вишн/чер.осв.д/д 1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3467778.jpg",
+    "plu": 3467778,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.0,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24936,
+    "name": "ЛЮБИМЫЙ Нап.АПЕЛЬСИН.МАНГО дет.мяк.1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3498026.jpg",
+    "plu": 3498026,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.0,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24954,
+    "name": "Напиток сокосодержащий из яблок,абрикосов и груш для детского питания \"Абрикосовая груша\" \"Любимый\" 1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3623588.jpg",
+    "plu": 3623588,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.0,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24987,
+    "name": "ЛЮБИМЫЙ Нап.ТРОПИЧЕС.МИКС с/содерж.1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3659858.jpg",
+    "plu": 3659858,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 117.99,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131329,
+    "name": "MIRINDA Напит.АПЕЛЬСИН б/алк.с/газ.2л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684654.jpg",
+    "plu": 3684654,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 117.99,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131330,
+    "name": "7UP Напит.б/алк.с/газ.2л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3684655.jpg",
+    "plu": 3684655,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 119.99,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24885,
+    "name": "Я Нектар и/манго с мякотью д/д пит.0,97л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3376406.jpg",
+    "plu": 3376406,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 148.99,
+      "price_promo__min": 96.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24949,
+    "name": "Сок овощной !DEAS \"Томатно-огуречный с перцем, чесноком, луком, экстрактом трав и морской солью\", 1 л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3619660.jpg",
+    "plu": 3619660,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 139.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24950,
+    "name": "Сок фруктово-овощной !DEAS \"Яблочный с сельдереем\", 1 л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3619758.jpg",
+    "plu": 3619758,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 139.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25029,
+    "name": "SOKO GRANDE Нектар из манго с мяк.0,75л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3694761.jpg",
+    "plu": 3694761,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 117.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25030,
+    "name": "SOKO GRANDE Нектар облепих.с мяк.0,75л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3694764.jpg",
+    "plu": 3694764,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 117.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25038,
+    "name": "Soko Grande Нектар из гуавы с мякотью 0,75л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3913314.jpg",
+    "plu": 3913314,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 117.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25039,
+    "name": "Напиток безалкогольный негазированный ФЬЮЗ ТИ черный чай лесные ягоды-гибискус 1,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3913470.jpg",
+    "plu": 3913470,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 103.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25040,
+    "name": "Напиток безалкогольный негазированный \"Фьюз Ти\" черный чай со вкусом лимон-лемонграсс 1,5 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3918977.jpg",
+    "plu": 3918977,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 102.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25089,
+    "name": "Напиток «ФЬЮЗ ТИ» чай улун со вкусом малина-мята» б/алк.негаз.1,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4043892.jpg",
+    "plu": 4043892,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 124.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25102,
+    "name": "Сок овощефруктовый восстановленный \"!DEAS\" морковно-малиновый, 1л., стекло",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4047943.jpg",
+    "plu": 4047943,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 139.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131321,
+    "name": "ФРУКТ.САД Сок ЯБЛ.осв.д/дет.пит.1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3679184.jpg",
+    "plu": 3679184,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18729,
+    "name": "Сок гранатовый прямого отжима Soko Grande 1 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3620708.jpg",
+    "plu": 3620708,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 118.99,
+      "price_promo__min": 104.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131210,
+    "name": "ARSHANI Нектар манговый 1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3449171.jpg",
+    "plu": 3449171,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131211,
+    "name": "ARSHANI Нектар грушевый 1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3449174.jpg",
+    "plu": 3449174,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 130.0,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24865,
+    "name": "Сок гранатовый, Гранте, 0,75 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3165884.jpg",
+    "plu": 3165884,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 339.99,
+      "price_promo__min": 249.99
+    },
+    "store_name": null
+  }
+]

@@ -1,0 +1,1808 @@
+[
+  {
+    "id": 16861,
+    "name": "САРАФ.Йогурт термостат.дет.1,5% 125г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3638992.jpg",
+    "plu": 3638992,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 17.99,
+      "price_promo__min": 12.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18743,
+    "name": "ДОБРЫЙ Сок мультифрут с 6 мес.0.2л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3637415.jpg",
+    "plu": 3637415,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 24.0,
+      "price_promo__min": 21.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16854,
+    "name": "АКТИВ.Биойогурт черн./зл/с.льна2,9%150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3483915.jpg",
+    "plu": 3483915,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 28.35,
+      "price_promo__min": 26.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16906,
+    "name": "БЗМЖ Биойогурт обог.с Тык-бан-кор\"зим коллекц\"2,9% 150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4087599.jpg",
+    "plu": 4087599,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 41.99,
+      "price_promo__min": 26.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16896,
+    "name": "БЗМЖ Активиа Биойогурт, обогащенный бифидобактериями ActiRegularis®, с клубникой, яблоком и питахайей, 150г 2,9%",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4045357.jpg",
+    "plu": 4045357,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 41.99,
+      "price_promo__min": 32.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16905,
+    "name": "БЗМЖ Биойогурт обог. с Чернослив-финик-сем.льна 2,9% 150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4087593.jpg",
+    "plu": 4087593,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 44.99,
+      "price_promo__min": 32.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16907,
+    "name": "БЗМЖ Б/йог.обог.с Вишн-яблоком-малиной 2,9% 150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4087602.jpg",
+    "plu": 4087602,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 44.99,
+      "price_promo__min": 32.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16886,
+    "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, со злаками АКТИВИЯ, 2,2% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035471.jpg",
+    "plu": 4035471,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16887,
+    "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с дыней, клубникой и земляникой Активиа 2,0% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035472.jpg",
+    "plu": 4035472,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16888,
+    "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с клубникой и земляникой Активиа 2,0% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035473.jpg",
+    "plu": 4035473,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16889,
+    "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis,Активиа 2,4% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035474.jpg",
+    "plu": 4035474,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16890,
+    "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с черносливом Активиа 2,0% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035476.jpg",
+    "plu": 4035476,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16891,
+    "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с манго и яблоком Активиа 2,0% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035562.jpg",
+    "plu": 4035562,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16892,
+    "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с черникой, злаками и льняными семенами Активиа 2,1% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4035564.jpg",
+    "plu": 4035564,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16904,
+    "name": "БЗМЖ Биойогурт обог с Тыкв-бан-кор \"зимн коллек\" 2,1% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4087592.jpg",
+    "plu": 4087592,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 36.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16863,
+    "name": "ДАНИС.Йог.ФАНТ.густ.зл.шар.с.кар6,9%105г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3644549.jpg",
+    "plu": 3644549,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 38.49,
+      "price_promo__min": 37.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16880,
+    "name": "Кисломолоч. продукт йогурт \"Даниссимо Фантазия\", мдж 6,9% и хрустящие злак.шарики,покрытые белым шок.со вкус. марак. и манго 105г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3934324.jpg",
+    "plu": 3934324,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 37.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16908,
+    "name": "БЗМЖ Йогурт ДАНИССИМО ФАНТАЗИЯ 6,9% и хрустящие рисовые шарики со вкусом пекана в карамели и фундука 105г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4087609.jpg",
+    "plu": 4087609,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 51.64,
+      "price_promo__min": 37.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16894,
+    "name": "БЗМЖ Активиа Биойогурт, обогащенный бифидобактериями ActiRegularis, с яблоком и персиком, 2,0% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4038830.jpg",
+    "plu": 4038830,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 57.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16895,
+    "name": "БЗМЖ Активиа Биойогурт, обогащенный бифидобактериями AсtiRegularis, с яблоком, клубникой и черникой, 2,0% 260г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4038831.jpg",
+    "plu": 4038831,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 57.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131452,
+    "name": "Soko Grande Сок яблочный восстановленный осветленный 0,3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4074641.jpg",
+    "plu": 4074641,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 52.99,
+      "price_promo__min": 42.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131353,
+    "name": "Сок гранатовый прямого отжима 0,3 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3920295.jpg",
+    "plu": 3920295,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 52.99,
+      "price_promo__min": 45.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131406,
+    "name": "SOKO GRANDE Нектар из манго с мякотью 0,3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4022789.jpg",
+    "plu": 4022789,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 49.99,
+      "price_promo__min": 45.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25032,
+    "name": "Вишневый нектар \"RICH\" ПЭТ 0.3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3902703.jpg",
+    "plu": 3902703,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 55.99,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25033,
+    "name": "Нектар из апельсинов и манго \"RICH\" ПЭТ 0.3л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3902704.jpg",
+    "plu": 3902704,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 55.99,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25034,
+    "name": "Яблочный сок \"RICH\", ПЭТ 0.3л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3903669.jpg",
+    "plu": 3903669,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 55.99,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131420,
+    "name": "БЗМЖ Даниссимо Коктейль кисломолочный йогуртный с наполнителем «Спелое манго и бельгийский белый шоколад», 190г 2,7%",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4045556.jpg",
+    "plu": 4045556,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 56.99,
+      "price_promo__min": 50.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131193,
+    "name": "ДАНОН Йогурт 3,3% 350г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3433156.jpg",
+    "plu": 3433156,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 64.99,
+      "price_promo__min": 57.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13923,
+    "name": "УВЕЛКА Хлопья гречневые 400г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3477319.jpg",
+    "plu": 3477319,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 68.0,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113272,
+    "name": "Завтрак Вкусти Хрусти, подушечки со сливочной начинкой, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3435751.jpg",
+    "plu": 3435751,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 61.99,
+      "price_promo__min": 59.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113344,
+    "name": "Хлопья Увелка, рисовые, 400 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3613391.jpg",
+    "plu": 3613391,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 76.65,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113345,
+    "name": "КОММУНАРКА Какао-порошок 150г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3614049.jpg",
+    "plu": 3614049,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113416,
+    "name": "NESQUIK Какао-нап.OPTI-START б/р об.135г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3696920.jpg",
+    "plu": 3696920,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 84.99,
+      "price_promo__min": 64.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18580,
+    "name": "Нектар ДОБРЫЙ виноградный 1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/90347.jpg",
+    "plu": 90347,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 73.9,
+      "price_promo__min": 67.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13875,
+    "name": "Джем Махеевъ, клубника, 300 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3369992.jpg",
+    "plu": 3369992,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 78.0,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19973,
+    "name": "МАХЕЕВЪ Джем ЛЕСН.ЯГОДЫ д/п с доз.300г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3658466.jpg",
+    "plu": 3658466,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131160,
+    "name": "ВКУСНОТ.Йогурт 1,5%персик тетра-топ 750г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3363988.jpg",
+    "plu": 3363988,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 75.55,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16841,
+    "name": "СЕЛО ЗЕЛ.Яйцо ДЕРЕВЕНСКОЕ С1 10шт",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3446505.jpg",
+    "plu": 3446505,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 75.99,
+      "price_promo__min": 71.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19164,
+    "name": "Хлебцы Croisette, ржано-пшеничные, 200 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4054468.jpg",
+    "plu": 4054468,
+    "promo": {
+      "id": 1171025932,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 134.99,
+      "price_promo__min": 75.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18720,
+    "name": "ДОБРЫЙ Нап.из клюкв/апел.с экс.корицы 1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3501040.jpg",
+    "plu": 3501040,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 84.95,
+      "price_promo__min": 76.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18785,
+    "name": "Cок из яблока, апельсина, мандарина, грейпфрута, лимона и лайма, 1л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3902665.jpg",
+    "plu": 3902665,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 85.99,
+      "price_promo__min": 76.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18786,
+    "name": "Сок яблочно-виноградный, 1л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3902666.jpg",
+    "plu": 3902666,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 85.99,
+      "price_promo__min": 76.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19982,
+    "name": "УХТЫШКИ Какао-нап.раст.с витам.300г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3677592.jpg",
+    "plu": 3677592,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 89.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16860,
+    "name": "Творог Вкуснотеево, 9%, 300 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3634733.jpg",
+    "plu": 3634733,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 99.0,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24920,
+    "name": "ЛЮБИМЫЙ Напит.ябл/вишн/чер.осв.д/д 1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3467778.jpg",
+    "plu": 3467778,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.0,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24936,
+    "name": "ЛЮБИМЫЙ Нап.АПЕЛЬСИН.МАНГО дет.мяк.1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3498026.jpg",
+    "plu": 3498026,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.0,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24954,
+    "name": "Напиток сокосодержащий из яблок,абрикосов и груш для детского питания \"Абрикосовая груша\" \"Любимый\" 1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3623588.jpg",
+    "plu": 3623588,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 109.0,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24987,
+    "name": "ЛЮБИМЫЙ Нап.ТРОПИЧЕС.МИКС с/содерж.1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3659858.jpg",
+    "plu": 3659858,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 117.99,
+      "price_promo__min": 94.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24885,
+    "name": "Я Нектар и/манго с мякотью д/д пит.0,97л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3376406.jpg",
+    "plu": 3376406,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 148.99,
+      "price_promo__min": 96.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24949,
+    "name": "Сок овощной !DEAS \"Томатно-огуречный с перцем, чесноком, луком, экстрактом трав и морской солью\", 1 л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3619660.jpg",
+    "plu": 3619660,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 139.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24950,
+    "name": "Сок фруктово-овощной !DEAS \"Яблочный с сельдереем\", 1 л.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3619758.jpg",
+    "plu": 3619758,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 139.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25029,
+    "name": "SOKO GRANDE Нектар из манго с мяк.0,75л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3694761.jpg",
+    "plu": 3694761,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 117.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25030,
+    "name": "SOKO GRANDE Нектар облепих.с мяк.0,75л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3694764.jpg",
+    "plu": 3694764,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 117.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25038,
+    "name": "Soko Grande Нектар из гуавы с мякотью 0,75л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3913314.jpg",
+    "plu": 3913314,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 117.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25102,
+    "name": "Сок овощефруктовый восстановленный \"!DEAS\" морковно-малиновый, 1л., стекло",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4047943.jpg",
+    "plu": 4047943,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 139.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113303,
+    "name": "CINI MINIS Безбашенные квадры Готовый завтрак с корицей 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3477236.jpg",
+    "plu": 3477236,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 119.0,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131321,
+    "name": "ФРУКТ.САД Сок ЯБЛ.осв.д/дет.пит.1,93л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3679184.jpg",
+    "plu": 3679184,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 16845,
+    "name": "Сыр Hochland. Сливочный, 220 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3467389.jpg",
+    "plu": 3467389,
+    "promo": {
+      "id": 1171025775,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 124.99,
+      "price_promo__min": 104.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18729,
+    "name": "Сок гранатовый прямого отжима Soko Grande 1 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3620708.jpg",
+    "plu": 3620708,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 118.99,
+      "price_promo__min": 104.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18611,
+    "name": "Кофе Жокей Ирландские Сливки, молотый, 150 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3046297.jpg",
+    "plu": 3046297,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 159.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131210,
+    "name": "ARSHANI Нектар манговый 1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3449171.jpg",
+    "plu": 3449171,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131211,
+    "name": "ARSHANI Нектар грушевый 1л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3449174.jpg",
+    "plu": 3449174,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 130.0,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19972,
+    "name": "ДЖем Махеевъ, апельсин, 400 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3658465.jpg",
+    "plu": 3658465,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 149.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19977,
+    "name": "МАХЕЕВЪ Джем КЛУБНИЧНЫЙ стак.400г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3661658.jpg",
+    "plu": 3661658,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 186.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19993,
+    "name": "Джем нестерилизованный \"Персик и Манго\", 400 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3910897.jpg",
+    "plu": 3910897,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 149.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13949,
+    "name": "Кофе Jacobs Monarch, Классический, в зернах, 230 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3607729.jpg",
+    "plu": 3607729,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 229.0,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113286,
+    "name": "ВОСЭБА Кофе ARABICA мол.250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3452816.jpg",
+    "plu": 3452816,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 249.99,
+      "price_promo__min": 159.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13843,
+    "name": "PAULIG Кофе CLASSIC мол.250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2100058.jpg",
+    "plu": 2100058,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 197.6,
+      "price_promo__min": 164.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13844,
+    "name": "Кофе Paulig Classic, зерновой, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2100060.jpg",
+    "plu": 2100060,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 165.05,
+      "price_promo__min": 164.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18689,
+    "name": "Кофе Paulig Arabica, зерновой, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3434095.jpg",
+    "plu": 3434095,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 219.0,
+      "price_promo__min": 179.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113225,
+    "name": "Завтрак шоколадный, готовый, Nesquick, 700 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3368535.jpg",
+    "plu": 3368535,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 219.0,
+      "price_promo__min": 189.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18616,
+    "name": "Кофе Jardin Dessert Cup, зерновой, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3153783.jpg",
+    "plu": 3153783,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 259.0,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113502,
+    "name": "Кофе натуральный жареный молотый JACOBS Barista Editions Crema 230г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4034432.jpg",
+    "plu": 4034432,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 319.99,
+      "price_promo__min": 219.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13821,
+    "name": "LAVAZZA Кофе QUALITA ORO зер.в/у 250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/45169.jpg",
+    "plu": 45169,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 359.99,
+      "price_promo__min": 249.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13826,
+    "name": "LAVAZZA Кофе QUALITA ORO мол.в/у 250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/72110.jpg",
+    "plu": 72110,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 299.0,
+      "price_promo__min": 249.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24865,
+    "name": "Сок гранатовый, Гранте, 0,75 л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3165884.jpg",
+    "plu": 3165884,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 339.99,
+      "price_promo__min": 249.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18665,
+    "name": "Кофе Egoiste Espresso, молотый, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3395340.jpg",
+    "plu": 3395340,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 299.99,
+      "price_promo__min": 259.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113115,
+    "name": "J.MEINL Кофе ЮБИЛЕЙНЫЙ мол.в/у 250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/7765.jpg",
+    "plu": 7765,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 319.0,
+      "price_promo__min": 269.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131254,
+    "name": "ВКУСНОТ.Масло ТРАДИЦ.слив.82,5% 400г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3612680.jpg",
+    "plu": 3612680,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 299.0,
+      "price_promo__min": 279.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131366,
+    "name": "ТЫСЯЧА ОЗЁР Масло сливочное сладкосливочное несолёное м. д. ж. 82,5% 400 гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3953367.jpg",
+    "plu": 3953367,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 309.99,
+      "price_promo__min": 286.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113412,
+    "name": "EGOISTE Кофе VELVET нат.жар.в зерн.200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3689955.jpg",
+    "plu": 3689955,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 399.99,
+      "price_promo__min": 299.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113413,
+    "name": "EGOISTE Кофе VELVET нат.жар.мол.200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3689956.jpg",
+    "plu": 3689956,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 379.99,
+      "price_promo__min": 299.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13968,
+    "name": "Кофе Черная Карта, зерновой, 800 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3649043.jpg",
+    "plu": 3649043,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 499.99,
+      "price_promo__min": 399.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13922,
+    "name": "AMBAS.Кофе NERO зер.1000г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3472968.jpg",
+    "plu": 3472968,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 699.99,
+      "price_promo__min": 439.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113341,
+    "name": "Кофе Jacobs Monarch, в зернах, 800 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3608097.jpg",
+    "plu": 3608097,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 595.0,
+      "price_promo__min": 499.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 13840,
+    "name": "PAULIG Кофе ARABICA зер.1кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2073687.jpg",
+    "plu": 2073687,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 929.99,
+      "price_promo__min": 669.99
+    },
+    "store_name": null
+  }
+]

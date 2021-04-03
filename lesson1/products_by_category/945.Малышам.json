@@ -1,0 +1,758 @@
+[
+  {
+    "id": 131342,
+    "name": "М/М Коктейль мол.у/паст.шоколад.2,3%200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3695118.jpg",
+    "plu": 3695118,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 29.99,
+      "price_promo__min": 23.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131343,
+    "name": "М/М Коктейль мол.у/паст.вк.кар.2,3%200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3695119.jpg",
+    "plu": 3695119,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 29.99,
+      "price_promo__min": 23.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131422,
+    "name": "БЗМЖ Коктейль молочный ул/паст.дет.со вкусом клубники и банана 2.3% 200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4046388.jpg",
+    "plu": 4046388,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 29.99,
+      "price_promo__min": 23.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18826,
+    "name": "Honey kid Печенье детское растворимое с витаминами и минералами с 5 мес 60 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4045242.jpg",
+    "plu": 4045242,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 29.99,
+      "price_promo__min": 24.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18677,
+    "name": "Кисель Фруто Няня, малина, 200 мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3416978.jpg",
+    "plu": 3416978,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 27.8,
+      "price_promo__min": 26.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131220,
+    "name": "Биотворог Тема, клубника-банан, 100 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3466203.jpg",
+    "plu": 3466203,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 28.25,
+      "price_promo__min": 27.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 7938,
+    "name": "ФрутоНяня 80г. Пюре из капусты брокколи, кабачков и цветной капусты \"мой первый салатик\"",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3625195.jpg",
+    "plu": 3625195,
+    "promo": {
+      "id": 1165122189,
+      "date_begin": "2021-03-07",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 34.9,
+      "price_promo__min": 32.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25073,
+    "name": "Прод.дет.пит.для детей ран.возр.Прод.прик.,каша мол., гот. к употр.,стер.,\"овс.с бан. кашка мол.\"с Омега 3,обогащ. вит.и инул. 200мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3978638.jpg",
+    "plu": 3978638,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 42.99,
+      "price_promo__min": 32.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 7945,
+    "name": "Фруто Няня прод.дет.пит.для дет.ранн.возр.,прод.прикорм.-Пюре овощ.со слив.\"Овощной крем-суп из кап.брокк., цвет.кап. и морк\"200мл.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3900018.jpg",
+    "plu": 3900018,
+    "promo": {
+      "id": 1165122189,
+      "date_begin": "2021-03-07",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 45.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 7946,
+    "name": "Фруто Няня прод.дет.пит.для дет.ранн.возр.,прод.прик.-пюре овощ.со слов.\"овощной крем-суп из тыквы, картофеля и моркови\" 200 мл.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3900019.jpg",
+    "plu": 3900019,
+    "promo": {
+      "id": 1165122189,
+      "date_begin": "2021-03-07",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 45.99,
+      "price_promo__min": 34.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131275,
+    "name": "Ряженка Агуша, клубника, 2,9%, 200 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3636366.jpg",
+    "plu": 3636366,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 42.49,
+      "price_promo__min": 35.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131268,
+    "name": "Пюре яблоко, клубника и злаки,90гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3629520.jpg",
+    "plu": 3629520,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 39.9,
+      "price_promo__min": 38.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131284,
+    "name": "Пюре фруктово-овощное \"Яблоко Тыква Морковь Манго\" 90гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3641877.jpg",
+    "plu": 3641877,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 45.9,
+      "price_promo__min": 38.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131285,
+    "name": "Пюре фруктово-овощное \"Яблоко Брокколи\" 90гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3641878.jpg",
+    "plu": 3641878,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 45.9,
+      "price_promo__min": 38.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131286,
+    "name": "Пюре фруктово-овощное \"Яблоко Груша Кабачок\" 90гр",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3641879.jpg",
+    "plu": 3641879,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 45.9,
+      "price_promo__min": 38.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131357,
+    "name": "Продукт дет.пит. ддетей раннего в-та продукт прикорма - \"печенье раств. дпит.дет.с ран.в-та с вит. и мин. с кальцием 150г\"",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3927157.jpg",
+    "plu": 3927157,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 45.99,
+      "price_promo__min": 39.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24896,
+    "name": "ФР-Н.Морс из клюк/черн/вишн.д/д пит.0,5л",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3416973.jpg",
+    "plu": 3416973,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 46.9,
+      "price_promo__min": 44.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24961,
+    "name": "ФрутоНяня 0,5л Нектар яблочно-вишневый осветленный",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3626873.jpg",
+    "plu": 3626873,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 46.9,
+      "price_promo__min": 44.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131153,
+    "name": "Пюре Фрутоняня*, цыпленок, с 6-ти месяцев, 80 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3353095.jpg",
+    "plu": 3353095,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 48.95,
+      "price_promo__min": 46.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18755,
+    "name": "ФРУТОН.Пюре из яблок/малины со слив.250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3662198.jpg",
+    "plu": 3662198,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 54.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18756,
+    "name": "ФРУТОН.Пюре из ябл/банан/груш с печ.250г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3662199.jpg",
+    "plu": 3662199,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 54.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131154,
+    "name": "Пюре Фрутоняня*, индейка, с 6-ти месяцев, 80 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3353099.jpg",
+    "plu": 3353099,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 58.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131155,
+    "name": "Пюре Фрутоняня*, говядина, с 6-ти месяцев, 80 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3353100.jpg",
+    "plu": 3353100,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 50.95,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131245,
+    "name": "АГУША Молоко ул/паст.д/д от 3л 3,2%925мл",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3507208.jpg",
+    "plu": 3507208,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 73.05,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131316,
+    "name": "GERBER Пюре СПЕЛОЕ ЯБЛОКО фр.с 4мес.90г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3674637.jpg",
+    "plu": 3674637,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 75.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131317,
+    "name": "GERBER Пюре СПЕЛОЕ МАНГО фр.с 6мес.90г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3674646.jpg",
+    "plu": 3674646,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 75.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131318,
+    "name": "GERBER Пюре СПЕЛАЯ ГРУША фр.с 4мес.90г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3674654.jpg",
+    "plu": 3674654,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 75.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131098,
+    "name": "ФРУТОНЯНЯ Каша овс.с мол/ябл/бан.б/р200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2162112.jpg",
+    "plu": 2162112,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 99.8,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131237,
+    "name": "ФРУТОН.Каша мультизлак.ябл/бан/земл.200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3496234.jpg",
+    "plu": 3496234,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 99.8,
+      "price_promo__min": 89.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18762,
+    "name": "ФРУТОН.Кусочки фр.из ябл.дет.53г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3667780.jpg",
+    "plu": 3667780,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 93.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18763,
+    "name": "ФРУТОН.Кусочки фр.из ябл/перс.дет.53г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3667781.jpg",
+    "plu": 3667781,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 93.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24895,
+    "name": "NESTLE Каша ГРЕЧНЕВАЯ сухая безмол.200г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3415416.jpg",
+    "plu": 3415416,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 112.0,
+      "price_promo__min": 99.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24971,
+    "name": "NEST.Каша сух.мол.овс.с груш/банан.220г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3641446.jpg",
+    "plu": 3641446,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 139.0,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 24972,
+    "name": "NEST.Каша сух.мол.мультизл.с ябл/бан220г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3641448.jpg",
+    "plu": 3641448,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 139.0,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25095,
+    "name": "СУХ.БЫСТРОРАСТ.МОЛ.НАП.«NESTOGEN®3. ДЕТСКОЕ МОЛОЧКО» С ПРЕБИОТИКАМИ И ЛАКТОБАКТЕРИЯМИ L.REUTERI Д/ДЕТ.С 12 МЕС., 600г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4045566.jpg",
+    "plu": 4045566,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 589.99,
+      "price_promo__min": 389.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 25096,
+    "name": "СУХ.БЫСТРОРАСТ.МОЛ. НАПИТОК «NESTOGEN®4. ДЕТСКОЕ МОЛОЧКО» С ПРЕБИОТИКАМИ И ЛАКТОБАКТЕРИЯМИ L.REUTERI Д/ДЕТ.С 18 МЕС., 600г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4045567.jpg",
+    "plu": 4045567,
+    "promo": {
+      "id": 1163332313,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-06",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 3
+    },
+    "current_prices": {
+      "price_reg__min": 589.99,
+      "price_promo__min": 389.99
+    },
+    "store_name": null
+  }
+]

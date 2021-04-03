@@ -1,0 +1,170 @@
+[
+  {
+    "id": 18734,
+    "name": "Сельдь филе в масле с укропом 250г.",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3626055.jpg",
+    "plu": 3626055,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 99.99,
+      "price_promo__min": 69.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18842,
+    "name": "Икор рыбн издел Икра рыбная сс в соусе на основе растительных масел пастеризованная «Классическая» СТМ Fish House 0,18 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4066090.jpg",
+    "plu": 4066090,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18843,
+    "name": "Икорн рыбн издел Икра рыбн сс в соусе на осн растит масел с аром копч СТМ Fish House 0,18 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4066091.jpg",
+    "plu": 4066091,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 20059,
+    "name": "Рыбные консервы: \"Икра трески атлантической стерилизованная\" Fish House, 240 грамм",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4067052.jpg",
+    "plu": 4067052,
+    "promo": {
+      "id": 1163314563,
+      "date_begin": "2021-02-28",
+      "date_end": "2021-04-07",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 4
+    },
+    "current_prices": {
+      "price_reg__min": 119.99,
+      "price_promo__min": 105.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18779,
+    "name": "Р.МОРЕ Сел.АППЕТИТ.атл.ф/к с/с мас.400г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3693862.jpg",
+    "plu": 3693862,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 148.99,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131396,
+    "name": "МЕРИДИАН Коктейль из морепродуктов в рассоле 270г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4006327.jpg",
+    "plu": 4006327,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 169.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131397,
+    "name": "МЕРИДИАН Мясо мидий чилийских в масле с вяленым томатом, чесноком и зеленью 270г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4006328.jpg",
+    "plu": 4006328,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 149.99,
+      "price_promo__min": 129.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131255,
+    "name": "Форель сырокопченая, слабосоленая, Меридиан, 150 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3617363.jpg",
+    "plu": 3617363,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 259.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  }
+]

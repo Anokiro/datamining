@@ -1,0 +1,254 @@
+[
+  {
+    "id": 220,
+    "name": "PURINA Корм FRIS.конс.д/вз.соб.г.под.85г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3692140.jpg",
+    "plu": 3692140,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 13.99,
+      "price_promo__min": 12.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 221,
+    "name": "PURINA Корм FRIS.ягн.в под.д/взр.соб.85г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3692244.jpg",
+    "plu": 3692244,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 13.99,
+      "price_promo__min": 12.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 222,
+    "name": "PURINA Корм FRIS.кур.в под.д/взр.соб.85г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3692245.jpg",
+    "plu": 3692245,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 13.99,
+      "price_promo__min": 12.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 112729,
+    "name": "FELIX SENS.Корм ГОВЯД.В ЖЕЛЕ С ТОМАТ.85г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3413294.jpg",
+    "plu": 3413294,
+    "promo": {
+      "id": 1170285982,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 17.5,
+      "price_promo__min": 14.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 112731,
+    "name": "F.SEN.Корм конс.с инд.в соус.вк.бек.85г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3445962.jpg",
+    "plu": 3445962,
+    "promo": {
+      "id": 1170285982,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 17.5,
+      "price_promo__min": 14.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 112733,
+    "name": "F.SEN.Корм конс.с треск.в соус.с том.85г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3445965.jpg",
+    "plu": 3445965,
+    "promo": {
+      "id": 1170285982,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 17.5,
+      "price_promo__min": 14.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 112737,
+    "name": "Корм для кошек Felix Двойной вкус, говядина/птица, 85 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3603050.jpg",
+    "plu": 3603050,
+    "promo": {
+      "id": 1170285982,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 17.5,
+      "price_promo__min": 14.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 112738,
+    "name": "Корм для кошек Felix Двойной вкус, ягненок/курица, 85 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3603051.jpg",
+    "plu": 3603051,
+    "promo": {
+      "id": 1170285982,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 17.5,
+      "price_promo__min": 14.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 112739,
+    "name": "Корм для кошек Felix Двойной вкус, индейка/печень, 85 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3603052.jpg",
+    "plu": 3603052,
+    "promo": {
+      "id": 1170285982,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 17.5,
+      "price_promo__min": 14.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 112740,
+    "name": "Корм для кошек Felix, лосось и форель, 85 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3603053.jpg",
+    "plu": 3603053,
+    "promo": {
+      "id": 1170285982,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 17.5,
+      "price_promo__min": 14.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 112742,
+    "name": "Корм консервированный полнорационный Felix Аппетитные Кусочки, для котят, с курицей в желе, 85г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3641052.jpg",
+    "plu": 3641052,
+    "promo": {
+      "id": 1170285982,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 19.99,
+      "price_promo__min": 14.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 210,
+    "name": "Корм для кошек Purina One, индейка, 1,5 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3455947.jpg",
+    "plu": 3455947,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 469.99,
+      "price_promo__min": 399.99
+    },
+    "store_name": null
+  }
+]

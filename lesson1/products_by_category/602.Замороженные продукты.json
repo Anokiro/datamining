@@ -1,0 +1,233 @@
+[
+  {
+    "id": 131232,
+    "name": "Чебурек Горячая штучка, с мясом, замороженный, 90 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3483781.jpg",
+    "plu": 3483781,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 27.95,
+      "price_promo__min": 23.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131094,
+    "name": "ЛОЖКАРЕВ Варен/карт и гриб.350г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/2125815.jpg",
+    "plu": 2125815,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 79.05,
+      "price_promo__min": 66.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 227,
+    "name": "САРАФАНОВО мороженое пломбир ванильный брикет во флоупаке 15%, 220 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3955155.jpg",
+    "plu": 3955155,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 107.99,
+      "price_promo__min": 79.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 224,
+    "name": "ИЗДЕЛИЕ КУЛИНАРНОЕ ИЗ МЯСА ПТИЦЫ С ГАРНИРОМ БЫСТРОЗАМОРОЖЕННОЕ. ВТОРОЕ ОБЕДЕННОЕ БЛЮДО.Лапша с курицей в соусе Хойсин, 0,3 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3912678.jpg",
+    "plu": 3912678,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 129.99,
+      "price_promo__min": 109.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131213,
+    "name": "С ПЫЛУ С ЖАРУ Котлеты ФИЛЕЙН.говяж.425г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3452752.jpg",
+    "plu": 3452752,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 134.99,
+      "price_promo__min": 114.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 223,
+    "name": "ИЗДЕЛИЕ КУЛИНАРНОЕ ИЗ МЯСА ПТИЦЫ С ГАРНИРОМ БЫСТРОЗАМОРОЖЕННОЕ. ВТОРОЕ ОБЕДЕННОЕ БЛЮДО.Курица в соусе терияки с рисом, 0,3 кг",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3912677.jpg",
+    "plu": 3912677,
+    "promo": {
+      "id": 1172068504,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 139.99,
+      "price_promo__min": 119.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131278,
+    "name": "VИТАМИН Киноа ФЕРМ.ПР.с овощ/базил.400г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3636753.jpg",
+    "plu": 3636753,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 179.99,
+      "price_promo__min": 145.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18746,
+    "name": "Треска Тушка, Красная цена, 800 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3644547.jpg",
+    "plu": 3644547,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 199.99,
+      "price_promo__min": 149.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18728,
+    "name": "Пельмени Домашние из свинины и говядины 800г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3613537.jpg",
+    "plu": 3613537,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 329.98,
+      "price_promo__min": 179.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131313,
+    "name": "Пельмени 4 вида мяса, Сибирская коллекция, 700 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3671957.jpg",
+    "plu": 3671957,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 338.99,
+      "price_promo__min": 199.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18759,
+    "name": "креветки северные, Polar, 500 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3663836.jpg",
+    "plu": 3663836,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 350.99,
+      "price_promo__min": 259.99
+    },
+    "store_name": null
+  }
+]

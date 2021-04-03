@@ -1,0 +1,212 @@
+[
+  {
+    "id": 113444,
+    "name": "Крекер \"С кунжутом и семенами льна\", 180г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3950922.jpg",
+    "plu": 3950922,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 29.99,
+      "price_promo__min": 27.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 131222,
+    "name": "7 DAYS Мини сух.B.ROL.с чесн/парм/тр.80г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3469320.jpg",
+    "plu": 3469320,
+    "promo": {
+      "id": 1170328688,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-04",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 31
+    },
+    "current_prices": {
+      "price_reg__min": 49.9,
+      "price_promo__min": 41.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113468,
+    "name": "Печенье затяжное «Goute» («Гутэ») 72г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3978913.jpg",
+    "plu": 3978913,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 67.99,
+      "price_promo__min": 49.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113439,
+    "name": "Крекер «TUC mini» со вкусом сыра 100г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3943973.jpg",
+    "plu": 3943973,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 79.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 113440,
+    "name": "Крекер «TUC mini» со вкусом сметаны и лука 21x100г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3943974.jpg",
+    "plu": 3943974,
+    "promo": {
+      "id": 1170306661,
+      "date_begin": "2021-04-01",
+      "date_end": "2021-05-05",
+      "type": "",
+      "description": "",
+      "kind": "Z011",
+      "expired_at": 32
+    },
+    "current_prices": {
+      "price_reg__min": 74.99,
+      "price_promo__min": 54.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18541,
+    "name": "Хлеб Марьин, заварной, Хлебный дом, 350 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3372334.jpg",
+    "plu": 3372334,
+    "promo": {
+      "id": 1171025928,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 76.99,
+      "price_promo__min": 67.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18691,
+    "name": "Лепешки тортилья пшеничные, Mission, 250 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3439566.jpg",
+    "plu": 3439566,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 74.95,
+      "price_promo__min": 72.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 19164,
+    "name": "Хлебцы Croisette, ржано-пшеничные, 200 г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/4054468.jpg",
+    "plu": 4054468,
+    "promo": {
+      "id": 1171025932,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 134.99,
+      "price_promo__min": 75.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18718,
+    "name": "Пирог СДОБ.ОСОБА АВСТ.ШТРУД.виш/ван.400г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3498660.jpg",
+    "plu": 3498660,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 152.99,
+      "price_promo__min": 149.99
+    },
+    "store_name": null
+  },
+  {
+    "id": 18719,
+    "name": "Пирог СДОБ.ОСОБА АВСТ.ШТРУД.лим/ап.400г",
+    "mech": null,
+    "img_link": "https://media.5ka.ru/media/products/3498661.jpg",
+    "plu": 3498661,
+    "promo": {
+      "id": 1171025930,
+      "date_begin": "2021-03-30",
+      "date_end": "2021-04-05",
+      "type": "",
+      "description": "",
+      "kind": "Z001",
+      "expired_at": 2
+    },
+    "current_prices": {
+      "price_reg__min": 152.99,
+      "price_promo__min": 149.99
+    },
+    "store_name": null
+  }
+]
